@@ -10,5 +10,5 @@ PyYAML
 fbprophet==0.4.post2
 xlrd
 pytest
-sqlalchemy==1.2.15
+sqlalchemy==1.3.0
 mypy
